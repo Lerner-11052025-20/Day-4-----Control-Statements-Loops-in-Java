@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // for the UI
 public class ARMSTRONG
 {
     public static void main(String args[])
